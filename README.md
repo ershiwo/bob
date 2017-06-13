@@ -1,2 +1,2 @@
-# bob
+# BoB
 The Best of Bangumi
