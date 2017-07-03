@@ -3,7 +3,7 @@
 The Best of Bangumi，aka. “班固米最佳”。  
 本项目仅用于收集班固米月度/季度/年度最佳内容，包括但不限于人物/小组讨论/条目讨论，收集范围还在讨论中，发起人保留修改任何与本项目有关内容的权利。  
 
-根据[社区指导原则](https://bgm.tv/about/guideline)，除以下情况外我们不会备份原始讨论内容：  
+根据[社区指导原则](https://bgm.tv/about/guideline)和[版权声明](https://bgm.tv/about/copyright)，除以下情况外我们不会备份原始讨论内容：  
 
 1. 原帖已删除，[Internet Archive](https://archive.org/) 未提供原帖历史存档；
 2. 因网站不可抗力导致的数据丢失。
